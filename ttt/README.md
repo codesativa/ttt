@@ -1,22 +1,23 @@
-# TTT or TextTransformTool
+# TTT
 
-## Information
+## INFORMATION
 
-name: TextTransformTool
-version: 1.0
-author: alexannem
+name: TTT
+current version: 1.0
+author: codesativa
 push date: 23/02/2024
+description: A message manipulation bot.
 
 ## Installation
  
-Install TTT on your server here: [install TTT](https://discord.com/api/oauth2/authorize?client_id=1210346708127719454&permissions=8&scope=bot+applications.commands)
+Install TTT on your server here: [install TTT](link here)
 
 ## Current Functionalities
 
 ### TTT 1.0 
 This baby bot has a lot of growing up to do. At the moment, it listens for messages on the server, and logs in console information about the message. It uses two custom classes: TTT and TTType. 
 * TTT gathers message meta information and its show_ticket method displays the info in console.  
-* TTType assures the return text transformation is appropriate to the type of message desired.
+* TTType will assure the return text transformation is appropriate to the type of message desired.
 
 ## Future Functionnalities
 
